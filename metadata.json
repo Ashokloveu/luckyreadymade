@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Lucky Readymade \u0026 Shoe Center",
+  "description": "An elegant, highly interactive e-commerce storefront for LUCKY ReadyMade \u0026 Shoe Center in Bardibas, Nepal. Featuring products for men, women, kids, shoes, and accessories.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
